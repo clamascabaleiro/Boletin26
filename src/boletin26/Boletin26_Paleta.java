@@ -141,6 +141,7 @@ public class Boletin26_Paleta extends javax.swing.JFrame {
             model.setValueAt(this.textoApelido.getText(),filas,1);
             model.setValueAt(this.boxCurso.getSelectedItem(),filas,2);
         }
+        
         filas++;
             
     }//GEN-LAST:event_bAgregarActionPerformed
